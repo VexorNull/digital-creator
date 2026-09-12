@@ -54,7 +54,7 @@ Explore my live web architectures and portfolio systems deployed across cloud ne
 
 ## 🌐 Global Digital Presence & Connect
 
-* **Official Website:** [tanveer-hussain.vercel.app](https://tanveer-hussain.vercel.app/)
+* **Official Website:** [tanveer-web.blogspot.com](https://tanveer-web.blogspot.com)
 * **GitHub Repository Hub:** [@VexorNull](https://github.com/VexorNull)
 * **Official Facebook:** [@VexorNull](https://facebook.com/VexorNull)
 * **Official Instagram:** [@VexorNull](https://Instagram.com/VexorNull)
