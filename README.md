@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Website-tanveer--hussain.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://tanveer-hussain.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Website-tanveer--hussain.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://tanveer-web.blogspot.com)
 [![GitHub followers](https://img.shields.io/github/followers/VexorNull?style=for-the-badge&logo=github&color=24292e)](https://github.com/VexorNull?tab=followers)
 [![Facebook](https://img.shields.io/badge/Facebook-%40VexorNull-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/VexorNull)
 [![Instagram](https://img.shields.io/badge/Instagram-%40VexorNull-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/VexorNull)
