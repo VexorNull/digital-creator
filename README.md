@@ -55,9 +55,9 @@ All projects are fully responsive, SEO-optimized, and deployed live:
 
 <div align="center">
 
-![Tanveer's GitHub stats](https://github-readme-stats.vercel.ai/api?username=VexorNull&show_icons=true&theme=radical&hide_border=true&bg_color=12,14,20)
-<br>
-![Top Langs](https://github-readme-stats.vercel.ai/api/top-langs/?username=VexorNull&layout=compact&theme=radical&hide_border=true&bg_color=12,14,20)
+<img src="https://github-readme-stats.vercel.app/api?username=VexorNull&show_icons=true&theme=radical&hide_border=true&bg_color=12,14,20" alt="Tanveer's GitHub stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexorNull&layout=compact&theme=radical&hide_border=true&bg_color=12,14,20" alt="Top Langs" />
 
 </div>
 
